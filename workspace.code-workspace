@@ -1,0 +1,23 @@
+{
+  "folders" : [
+	{
+		"name": "Anitas-Sewing-",
+		"uri": "vsls:/"
+	}
+],
+  "settings" : {
+    "vsliveshare.join.reload.workspaceFolder" : "\/var\/folders\/t5\/w_50xzk512bfhwsjyvbm0v040000gn\/T\/vsliveshare\/tmp-1DF21DFEB43E72CBFEC56A230EF8B5F47F7C",
+    "files.hotExit" : "off",
+    "vsliveshare.join.reload.workspaceId" : "1DF21DFEB43E72CBFEC56A230EF8B5F47F7C",
+    "vsliveshare.join.correlationId": "INVALID",
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "off",
+    "typescript.tsc.autoDetect": "off",
+    "jake.autoDetect": "off",
+    "grunt.autoDetect": "off",
+    "gulp.autoDetect": "off",
+    "npm.autoDetect": "off",
+    "debug.allowBreakpointsEverywhere": true,
+    "html.autoClosingTags": false
+  }
+}
